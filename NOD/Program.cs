@@ -10,6 +10,7 @@ namespace NOD
 	{
 		static void Main ( string[ ] args )
 		{
+			new MainMenu( ).Show( );
 		}
 	}
 }
